@@ -1,4 +1,4 @@
-# alicevision
+# alicevision_stl
 README Author : Zurong ZHANG 
 Supervisor : Dr. Adam A. Stokes
 Soft Systems Group / The School of Engineering / The University of Edinburgh
